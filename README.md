@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **98kje/98kje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,3 +10,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+![header](https://capsule-render.vercel.app/api?type=Transparent&text=JaeeunKim)
+</div>
