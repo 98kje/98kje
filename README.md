@@ -1,5 +1,29 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=Aerospace%20System%20Research&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Senior%20Researcher%20%7C%20Ph.D.%20Student&descAlignY=75&descAlign=50" width="100%" alt="Header" />
+
+<h1>🚀 Autonomous Systems & Aerial Mobility Research</h1>
+
+<img src="https://img.shields.io/badge/Role-Senior_Researcher-000000?style=for-the-badge&logo=googlescholar&logoColor=white">
+<img src="https://img.shields.io/badge/Degree-Ph.D._Candidate-00599C?style=for-the-badge&logo=acm&logoColor=white">
+<img src="https://img.shields.io/badge/Major-Mech_%26_Aerospace-555555?style=for-the-badge&logo=nasa&logoColor=white">
+
+<br/><br/>
+
+<table style="border: none; background-color: transparent;">
+<tr>
+<td align="center" style="border: none;">
+  <img src="https://github-readme-stats.vercel.app/api?username=98kje&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats" />
+</td>
+<td align="center" style="border: none;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=98kje&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6&hide=html,css" height="160" alt="Top Languages" />
+</td>
+</tr>
+</table>
+
+<h3>🛠 Research Environment & Toolchain</h3>
+<img src="https://img.shields.io/badge/ROS2-Humble-22314E?style=flat-square&logo=ros&logoColor=white"> <img src="https://img.shields.io/badge/PX4-Autopilot-333333?style=flat-square&logo=drone&logoColor=white"> <img src="https://img.shields.io/badge/Linux-Ubuntu_22.04-E95420?style=flat-square&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Comms-MAVLink_%26_DDS-0077C2?style=flat-square&logo=cisco&logoColor=white">
+<br/>
+<img src="https://img.shields.io/badge/Lang-C++17_%7C_Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Vision-OpenCV_%26_YOLO-5C3EE8?style=flat-square&logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/Sim-Gazebo_%26_AirSim-F05032?style=flat-square&logo=simulation&logoColor=white">
+
 </div>
 
 <br/>
