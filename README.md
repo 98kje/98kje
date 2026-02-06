@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header&text=Autonomous%20Mobility%20Lab&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=UAV%20%7C%20UGV%20%7C%20LiDAR%20SLAM&descAlignY=65&descAlign=50&height=200" width="100%" alt="Header" />
-
-<br/>
-
 # Jae Eun Kim
+
+<table style="border: none; background-color: transparent;">
+<tr>
+<td width="60%" style="border: none; vertical-align: middle; padding-right: 20px;">
 
 🏢 **Senior Researcher**
 <br/>
@@ -16,22 +16,27 @@ Solution Development Dept. @ ION Co., Ltd.
 <br/>
 Dept. of Mechanical & Aerospace System Engineering, Cheongju Univ.
 
+<br/><br/>
+
+> *Specializing in **Autonomous Mobility (UAV/UGV)**, **3D LiDAR SLAM**, and **Mission Critical Solutions**.*
+
+</td>
+<td width="40%" style="border: none; vertical-align: middle;">
+  <img src="https://images.unsplash.com/photo-1558980742-646b6c336930?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Autonomous Research Visual" style="border-radius: 15px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
+  </td>
+</tr>
+</table>
+
 <br/>
 
-> *Specializing in **Autonomous Systems (UAV/UGV)**, **3D LiDAR SLAM**, and **Mission Critical Solutions**.*
-
+**Technical Focus**
 <br/>
-
-<h3>🛠️ Technical Focus</h3>
-
-<img src="https://img.shields.io/badge/ROS2-Humble-22314E?style=flat-square&logo=ros&logoColor=white"> <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
-
-<img src="https://img.shields.io/badge/PX4-Autopilot-333333?style=flat-square&logo=drone&logoColor=white"> <img src="https://img.shields.io/badge/Autoware-Autonomous_Driving-00599C?style=flat-square&logo=autodesk&logoColor=white"> <img src="https://img.shields.io/badge/Algorithm-LiDAR_SLAM-5C3EE8?style=flat-square&logo=pointcloud&logoColor=white">
-
-<img src="https://img.shields.io/badge/Dev-GCS_Development-0077C2?style=flat-square&logo=c++&logoColor=white"> <img src="https://img.shields.io/badge/Planning-Path_&_Motion-FF6F00?style=flat-square&logo=algorithm&logoColor=white">
+`ROS2 Humble` • `PX4 & Autoware` • `Path Planning` • `GCS Development`
+<br/>
+`LiDAR Perception` • `Linux Systems Integration`
 
 <br/><br/>
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jekim98@ion-solution.co.kr)
+[![Email](https://img.shields.io/badge/jekim98%40ion--solution.co.kr-transparant?style=social&logo=gmail)](mailto:jekim98@ion-solution.co.kr)
 
 </div>
