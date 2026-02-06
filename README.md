@@ -14,13 +14,15 @@ Dept. of Mechanical & Aerospace System Engineering, Cheongju Univ.
 
 <br/>
 
-> *Specializing in **Autonomous Systems**, **UAV Architecture**, and **Mission Critical Solutions**.*
+> *Specializing in **Autonomous Mobility (UAV/UGV)**, **3D LiDAR SLAM**, and **Mission Critical Solutions**.*
 
 <br/>
 
 **Technical Focus**
 <br/>
-`ROS2 Humble` • `PX4 Autopilot` • `GCS Development` • `Linux Systems`
+`ROS2 Humble` • `PX4 & Autoware` • `Path Planning` • `GCS Development`
+<br/>
+`LiDAR Perception` • `Linux Systems Integration`
 
 <br/><br/>
 
